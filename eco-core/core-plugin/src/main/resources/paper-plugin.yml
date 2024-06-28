@@ -3,6 +3,7 @@ version: ${projectVersion}
 main: com.willfp.ecobits.EcoBitsPlugin
 api-version: 1.19
 load: STARTUP
+folia-supported: true
 
 dependencies:
   - name: eco
